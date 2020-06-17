@@ -1,2 +1,1 @@
-# Hello-World
-first code
+printf("hello,world\n");
